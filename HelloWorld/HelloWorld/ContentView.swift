@@ -22,6 +22,10 @@ struct ContentView: View {
         }
         .padding() // add padding around VStack edges
     }
+    
+    init() {
+        print("Hello, world!")
+    }
 }
 
 // create an XCode preview by declaring a structure that conforms to the PreviewProvider protocol.
