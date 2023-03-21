@@ -12,35 +12,36 @@ This app is able to use below function.
 % tree
 .
 ├── HelloWorld
-│   ├── Assets.xcassets
-│   │   ├── AccentColor.colorset
-│   │   │   └── Contents.json
-│   │   ├── AppIcon.appiconset
-│   │   │   └── Contents.json
-│   │   └── Contents.json
-│   ├── ContentView.swift
-│   ├── HelloWorldApp.swift
-│   └── Preview Content
-│       └── Preview Assets.xcassets
-│           └── Contents.json
-├── HelloWorld.xcodeproj
-│   ├── project.pbxproj
-│   ├── project.xcworkspace
-│   │   ├── contents.xcworkspacedata
-│   │   ├── xcshareddata
-│   │   │   ├── IDEWorkspaceChecks.plist
-│   │   │   └── swiftpm
-│   │   │       └── configuration
-│   │   └── xcuserdata
-│   │       └── H.Kondo.xcuserdatad
-│   │           └── UserInterfaceState.xcuserstate
-│   └── xcuserdata
-│       └── H.Kondo.xcuserdatad
-│           └── xcschemes
-│               └── xcschememanagement.plist
+│   ├── HelloWorld
+│   │   ├── Assets.xcassets
+│   │   │   ├── AccentColor.colorset
+│   │   │   │   └── Contents.json
+│   │   │   ├── AppIcon.appiconset
+│   │   │   │   └── Contents.json
+│   │   │   └── Contents.json
+│   │   ├── ContentView.swift
+│   │   ├── HelloWorldApp.swift
+│   │   └── Preview Content
+│   │       └── Preview Assets.xcassets
+│   │           └── Contents.json
+│   └── HelloWorld.xcodeproj
+│       ├── project.pbxproj
+│       ├── project.xcworkspace
+│       │   ├── contents.xcworkspacedata
+│       │   ├── xcshareddata
+│       │   │   ├── IDEWorkspaceChecks.plist
+│       │   │   └── swiftpm
+│       │   │       └── configuration
+│       │   └── xcuserdata
+│       │       └── H.Kondo.xcuserdatad
+│       │           └── UserInterfaceState.xcuserstate
+│       └── xcuserdata
+│           └── H.Kondo.xcuserdatad
+│               └── xcschemes
+│                   └── xcschememanagement.plist
 └── README.md
 
-16 directories, 12 files
+17 directories, 12 files
 ```
 
 # 2. Requirements
